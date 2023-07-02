@@ -19,7 +19,7 @@ typedef enum {FALSE,TRUE}	boolean;
 typedef enum{
 	FAILED,SUCCESS
 }enu_error_state_t;
-
+/*Type defs*/
 typedef unsigned char         uint8;          /*           0 .. 255              */
 typedef signed char           sint8;          /*        -128 .. +127             */
 typedef unsigned short        uint16;         /*           0 .. 65535            */

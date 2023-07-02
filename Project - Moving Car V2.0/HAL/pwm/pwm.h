@@ -9,8 +9,6 @@
 
 /*=========EXTERN VARIABLES=========*/
 
-/*=========GLOBAL VARIABLES=========*/
-
 /*=========TYPE DEFINITIONS=========*/
 typedef enum{
 	INVALID		=0,

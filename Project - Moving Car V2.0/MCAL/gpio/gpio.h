@@ -7,8 +7,6 @@
 #include "../../LIB/registers.h"
 #include "TM4C123.h"
 
-/*=========MACRO DEFINITIONS=========*/
-
 /*=========EXTERN VARIABLES=========*/
 
 /*=========GLOBAL VARIABLES=========*/

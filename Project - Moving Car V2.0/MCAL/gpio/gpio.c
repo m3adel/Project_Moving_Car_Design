@@ -418,7 +418,7 @@ enu_gpio_error_state_t GPIO_Setcallback(void (*Fptr)(void),enu_gpio_port_id_t en
 							else
 							{
 								enu_gpio_error_state = ENU_INVALID;
-								//do nothing
+								//nothing to do 
 							}
 						}
 						break;

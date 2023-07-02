@@ -1,7 +1,7 @@
 /*
  * app_interface.h
  *
- *   Created on: Jun 25, 2023
+ *   Created on: Jun 26, 2023
  *       Author: Bits 0101 Tribe - 
  *  Description: This file contains all Application (APP) functions' prototypes and definitions (Macros) to avoid magic numbers.
  */ 

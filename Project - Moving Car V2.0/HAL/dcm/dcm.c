@@ -1,7 +1,7 @@
 /*
  * dcm.c
  *
- *   Created on: Apr 11, 2023
+ *   Created on: Apr 13, 2023
  *       Author: Abdelrhman Walaa - https://github.com/AbdelrhmanWalaa
  *  Description: This file contains all Direct Current Motor (DCM) functions' implementation.
  *    Datasheet: https://datasheetspdf.com/pdf/917207/KYSAN/RF-300CA-11440/1

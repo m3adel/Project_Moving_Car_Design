@@ -53,9 +53,6 @@ typedef enum{
 }enu_gpt_reg_mode_t;
 
 
-/*=========EXTERN VARIABLES=========*/
-
-
 /*=========GLOBAL VARIABLES=========*/
 static boolean gs_bo_init_state[MAX_TIMER_ID] = {FALSE};
 static enu_timer_int_state_t arr_enu_timer_int_state[MAX_TIMER_ID] = {TIMER_DISABLE_INT};
