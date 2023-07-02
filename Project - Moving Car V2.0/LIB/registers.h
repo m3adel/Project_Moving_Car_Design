@@ -1,6 +1,8 @@
+
+//Registers
 #ifndef REGISTERS_H_
 #define REGISTERS_H_
-
+/*macros*/
 #define GPIO_APB
 #ifdef 	GPIO_APB
 #define GPIO_OFFEST(x)	((x<4) ? ((0x40004000)+((x)*(0x1000))) : ((0x40024000)+ ((x-4)*(0x1000))))

@@ -10,10 +10,6 @@
 
 /*=========MACRO DEFINITIONS=========*/
 #define MAX_DUTY_CYCLE 100.0F
-
-/*=========EXTERN VARIABLES=========*/
-
-
 /*=========STATIC GLOBAL VARIABLES=========*/
 static enu_gpio_port_id_t gs_enu_gpio_port_id = ENU_MAX_PORT;
 static enu_gpio_pin_id_t gs_enu_gpio_pin_id 	= ENU_MAX_PIN;

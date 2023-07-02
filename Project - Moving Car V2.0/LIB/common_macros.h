@@ -1,7 +1,7 @@
 /*
  * 	File:						common_macros.h
  *	Module:					library
- *	Description: 		header file 
+ *	Description: 		bit math file 
  * 	Author: 				HAZEM ASHRAF
  */
 

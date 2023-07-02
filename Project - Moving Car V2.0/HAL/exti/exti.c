@@ -14,9 +14,6 @@
 /*=========EXTERN VARIABLES=========*/
 
 
-/*=========STATIC GLOBAL VARIABLES=========*/
-
-
 /*=========TYPE DEFINITIONS=========*/
 
 

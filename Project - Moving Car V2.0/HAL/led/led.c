@@ -10,8 +10,6 @@
 
 /*=========MACRO DEFINITIONS=========*/
 
-/*=========EXTERN VARIABLES=========*/
-
 /*=========GLOBAL VARIABLES=========*/
 
 /*=========TYPE DEFINITIONS=========*/

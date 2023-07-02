@@ -10,8 +10,6 @@
 
 /*=========GLOBAL VARIABLES=========*/
 
-/*=========TYPE DEFINITIONS=========*/
-
 /*=========APIs DECLERATIONS=========*/
 
 enu_error_state_t LED_init(enu_gpio_port_id_t enu_gpio_port_id, enu_gpio_pin_id_t enu_gpio_pin_id);
